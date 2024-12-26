@@ -30,12 +30,12 @@ header h1 {
     margin-bottom: 1.5rem;
 }
 .product img, .project img {
+    border-bottom: 1cm;
     max-width: 100%;
     border-radius: 8px;
     flex: 1 1 300px;
 }
 .product-details, .project-details {
-    border-top: 10pt;
     flex: 2;
     margin-left: 2rem;
 }
