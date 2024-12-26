@@ -31,7 +31,7 @@ header h1 {
 }
 .product img, .project img {
     max-width: 100%;
-    border-radius: 8px;
+    border-radius: 20px;
     flex: 1 1 300px;
 }
 .product-details, .project-details {
