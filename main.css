@@ -26,7 +26,7 @@ header h1 {
     background-color: white;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     padding: 1rem;
-    border-radius: 20px;
+    border-radius: 8px;
     margin-bottom: 1.5rem;
 }
 .product img, .project img {
@@ -35,6 +35,7 @@ header h1 {
     flex: 1 1 300px;
 }
 .product-details, .project-details {
+    border-top: 10pt;
     flex: 2;
     margin-left: 2rem;
 }
